@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Speech-to-Text Conversion and Transliteration Result</title>
+    <!-- Include Wavesurfer.js -->
+    <script src="https://unpkg.com/wavesurfer.js"></script>
+</head>
+<body>
+    <h1>Speech-to-Text Conversion and Transliteration Result:</h1>
+    <p>File uploaded: {{ filename }}</p>
+
+    <!-- Adding the audio player with Wavesurfer.js -->
+    <div id="waveform"></div>
+
+    <!-- Adding a button to trigger audio playback -->
+    <button onclick="playAudio()">Play Audio</button>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Log the URL to the browser inspect-console for debugging
+            console.log('Audio file URL:', '{{ url_for('uploaded_file', filename=audio_path) }}');
+
+            // Initialize Wavesurfer
+            var wavesurfer = WaveSurfer.create({
+                container: '#waveform',
+                waveColor: 'violet',
+                progressColor: 'purple'
+            });
+
+            // Load audio file
+            wavesurfer.load('{{ url_for('uploaded_file', filename=audio_path.replace("\\", "/").split("/")[-1]) }}');
+
+            // Function to play audio
+            window.playAudio = function() {
+                // Play the audio and Ensure the AudioContext is created or resumed on a user gesture
+                wavesurfer.play();
+            }
+        });
+    </script>
+
+    <p>Conversion in Marathi language: {{ text_marathi }}</p>
+    <p>Transliteration in English language: {{ text_english }}</p>
+    <br>
+    <a href="/">Back to Home</a>
+</body>
+</html>

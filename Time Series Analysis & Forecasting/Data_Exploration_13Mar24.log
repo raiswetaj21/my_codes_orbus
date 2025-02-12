@@ -1,0 +1,11 @@
+2024-03-13 15:35:28 - INFO - Notebook execution started.
+2024-03-13 15:35:29 - INFO - NumExpr defaulting to 8 threads.
+2024-03-13 15:35:29 - DEBUG - matplotlib data path: C:\Users\adity\anaconda3\Lib\site-packages\matplotlib\mpl-data
+2024-03-13 15:35:29 - DEBUG - CONFIGDIR=C:\Users\adity\.matplotlib
+2024-03-13 15:35:29 - DEBUG - interactive is False
+2024-03-13 15:35:29 - DEBUG - platform is win32
+2024-03-13 15:35:29 - DEBUG - CACHEDIR=C:\Users\adity\.matplotlib
+2024-03-13 15:35:29 - DEBUG - Using fontManager instance from C:\Users\adity\.matplotlib\fontlist-v330.json
+2024-03-13 15:35:30 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-13 15:35:30 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-13 15:35:34 - INFO - Notebook execution completed.

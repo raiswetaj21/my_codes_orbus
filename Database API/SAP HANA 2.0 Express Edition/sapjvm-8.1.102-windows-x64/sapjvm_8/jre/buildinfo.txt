@@ -1,0 +1,10 @@
+builddate=2024-10-15 11:14:57
+platform=NTAMD64
+brand=sapjvm
+codeline=81_REL
+vmtype=sapjvm8
+buildtype=optU
+latestChange=342151
+vmVersion=8.1.102
+javaVersion=8
+buildId=1135812

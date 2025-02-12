@@ -1,0 +1,22 @@
+2024-03-11 15:34:43 - INFO - Notebook execution started.
+2024-03-11 15:35:13 - INFO - NumExpr defaulting to 8 threads.
+2024-03-11 15:35:14 - DEBUG - matplotlib data path: C:\Users\adity\anaconda3\Lib\site-packages\matplotlib\mpl-data
+2024-03-11 15:35:14 - DEBUG - CONFIGDIR=C:\Users\adity\.matplotlib
+2024-03-11 15:35:14 - DEBUG - interactive is False
+2024-03-11 15:35:14 - DEBUG - platform is win32
+2024-03-11 15:35:14 - DEBUG - CACHEDIR=C:\Users\adity\.matplotlib
+2024-03-11 15:35:14 - DEBUG - Using fontManager instance from C:\Users\adity\.matplotlib\fontlist-v330.json
+2024-03-11 15:35:16 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-11 15:35:16 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-11 16:05:21 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-11 17:36:37 - INFO - Notebook execution started.
+2024-03-11 17:36:37 - INFO - NumExpr defaulting to 8 threads.
+2024-03-11 17:36:38 - DEBUG - matplotlib data path: C:\Users\adity\anaconda3\Lib\site-packages\matplotlib\mpl-data
+2024-03-11 17:36:38 - DEBUG - CONFIGDIR=C:\Users\adity\.matplotlib
+2024-03-11 17:36:38 - DEBUG - interactive is False
+2024-03-11 17:36:38 - DEBUG - platform is win32
+2024-03-11 17:36:38 - DEBUG - CACHEDIR=C:\Users\adity\.matplotlib
+2024-03-11 17:36:38 - DEBUG - Using fontManager instance from C:\Users\adity\.matplotlib\fontlist-v330.json
+2024-03-11 17:36:39 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-11 17:36:39 - DEBUG - Loaded backend module://matplotlib_inline.backend_inline version unknown.
+2024-03-11 17:38:42 - INFO - Notebook execution completed.

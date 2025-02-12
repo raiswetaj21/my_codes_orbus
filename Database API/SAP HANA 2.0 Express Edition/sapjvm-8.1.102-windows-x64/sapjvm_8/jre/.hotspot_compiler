@@ -1,0 +1,22 @@
+###########################################################################
+#
+#                SAP JVM JIT Compiler Exclude List
+#
+###########################################################################
+
+# this file can be used to specify options to parametrize the JIT compiler, especially to exclude
+# methods from compilation
+#
+# to exclude a specified method from compilation, use one of these formats :
+# 
+#   exclude <package 1>/<package 2>/.../<package N>/<class name>.<method name>
+# or
+#   exclude <package 1>.<package 2>. ... .<package N>.<class name>::<method name>
+#
+# example:  to exclude method hello in class Example located in package "com/sun/tools/javac/code" use
+#
+#   exclude com/sun/tools/javac/code/Example.hello
+# or
+#   exclude com.sun.tools.javac.code.Example::hello
+
+# For new entries, please provide date, SAP JVM Bug description, SAP note, Java Bug ID

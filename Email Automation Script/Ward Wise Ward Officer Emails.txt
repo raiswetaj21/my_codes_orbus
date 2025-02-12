@@ -1,0 +1,20 @@
+Ward Wise Ward Officer Emails:
+
+# Receiver emails mapped to specific wards
+ward_email_map = {
+    'AundhBaner': ['aundh@punecorporation.org'],
+    'Bhawani Peth': ['asmita27284@gmail.com'],
+    'Bibwewadi': ['bibwewadi@punecorporation.org'],
+    'Dhankawadi-Sahakarnagar': ['dhankawadi@punecorporation.org'],
+    'Dhole Patil Road': ['indrayani.deepak.gaikwad@gmail.com'],
+    'Hadapsar-Mundhawa': ['hadapsar@punecorporation.org'],
+    'Kasba-Vishrambagwada': ['amol.pawar34@gmail.com'],
+    'Kondhwa-Yewalewadi': ['hkirulkar001@gmail.com'],
+    'Kothrud-Bawdhan': ['kothrud@punecorporation.org'],
+    'Nagar Road - Wadgaon Sheri': ['somnath.bankar@punecorporation.org'],
+    'Shivajinagar-Ghole Road': ['gwo@punecorporation.org'],
+    'Sinhgad Road': ['sandip.khalate@punecorporation.org'],
+    'Wanawadi-Ramtekdi': ['wanawadi@punecorporation.org'],
+    'Warje-Karvenagar': ['warjekarvenagar@punecorporation.org'],
+    'Yerawada - Kalas - Dhanori': ['city1nagtilak69@gmail.com']
+}

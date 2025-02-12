@@ -1,0 +1,8 @@
+Sender Email Address: sweta.rai@scstechindia.com
+
+Receiver Email Address: yashvi.bhansali@scstechindia.com
+
+Subject: Escalation Python Email
+
+Message: This is a Python script generated test email sent for checking the escalation metric content and pipeline.
+

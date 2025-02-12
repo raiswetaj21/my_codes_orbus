@@ -1,0 +1,56 @@
+Receiver Email Address:
+
+ward_email_map = {
+    'AundhBaner': ['aundhhealthdept@gmail.com','nikamnikhil0@gmail.com','iswmaundhattdence1@gmail.com',
+                   'saurabh.koli@scstechindia.com', 'shinnu.waghmare@scstechindia.com',
+                   'mahavir.maske@scstechindia.com'],
+    'Bhawani Peth': ['bhavanipeth@punecorporation.org', 'mukhtarsayyed1@gmail.com' ,
+                     'chandravadangaikwad552@gmail.com',
+                     'nitinsalunke9894@gmail.com', 'nilesh10099@gmail.com', 'bagulraju49@gmail.com',
+                     'govindapatole861@gmail.com', 'somnath.shinde@scstechindia.com',
+                     'pramodgaikwad1973@gmail.com', 'mohanchandele92@gmail.com', 'shivjigaiakwad@gmail.com',
+                     'bhushan.badgujar@scstechindia.com', 'onkar.vedpathak@scstechindia.com'],
+    'Bibwewadi': ['bibwewadi@punecorporation.org', 'sunilmohite73@gmail.com', 'omkar.lad@scstechindia.com'],
+    'Dhankawadi-Sahakarnagar': ['dhankawadi@punecorporation.org','dhankawadi@punecorporation.org',
+                                'vikramkathawate1270@gmail.com', 'vinayak.kadam@scstechindia.com',
+                                'nilesh.jadhav@scstechindia.com', 'rutik.pisal@scstechindia.com'],
+    'Dhole Patil Road': ['dholepatil@punecorporation.org', 'nikhilshendge741@gmail.com', 'suniltanwar8352@gmail.com',
+                         'nanaso.kodag@scstechindia.com', 'ajit.patil@scstechindia.com', 'sujit.sarwade@scstechindia.com'],
+    'Hadapsar-Mundhawa': ['Hadapsar@punecorporation.org','Hadapsar@punecorporation.org','naikshripad29@gmil.com',
+                          'hemraj.ghane@scstechindia.com', 'prashant.bhosale@scstechindia.com',
+                          'vaibhav.savant@scstechindia.com'],
+    'Kasba-Vishrambagwada': ['ksaba_vishrambaugwada@punecorporation.org', 'vishu10107@gmail.com',
+                             'nmahangre22@gmail.com', 'prathmesh.waghmare@scstechindia.com',
+                             'atik.m.sayyed@gmail.com', 'amitghag141077@gmail.com', 'lvkothere@gmail.com',
+                             'prathmesh.bhambure@scstechindia.com', 'rakesh.kshirsagar@scstechindia.com'],
+    'Kondhwa-Yewalewadi': ['kondhwa@punecorporation.org', 'kadamjalu913@gmail.com', 'rohit.bhiwgade@scstechindia.com',
+                           'govind.shegar@scstechindia.com', 'nikhil.patil@scstechindia.com'],
+    'Kothrud-Bawdhan': ['wmo07.kothrudpmc@gmail.com', 'sachinlohakare99@gmail.com', 'kothrud@punecorporation.org',
+                        'rohit.suryawanshi@scstechindia.com', 'eknath.mali@scstechindia.com',
+                        'siddhant.sohani@scstechindia.com'],
+    'Nagar Road - Wadgaon Sheri': ['nagarroad@punecorporation.org', 'sandesh1678@gmail.com',
+                                   'shailesh.badadal@scstechindia.com', 'vivek.ayawale@scstechindia.com',
+                                   'dattaraj.patil@scstechindia.com'],
+    'Shivajinagar-Ghole Road': ['gholerd.healthdep1@gmail.com','Gwo@punecorporation.org','nilimaskakade1973@gmail.com',
+                                'umesh.patil@scstechindia.com', 'vinod.patil@scstechindia.com',
+                                'navanath.s@scstechindia.com'],
+    'Sinhgad Road': ['healthsinhgadroad@gmail.com','sandip.khalate@punecorporation.org','ketannikam@gmail.com',
+                     'chandrakantlad@gmail.com', 'sujit.kale@scstechindia.com', 'rupesh.bengade@scstechindia.com',
+                     'ulhas.kharde@scstechindia.com'],
+    'Wanawadi-Ramtekdi': ['wanawadi@punecorporation.org','nisar.rashid.@gmail.com',
+                          'pranit.patil@scstechindia.com', 'abhishek.nikam@scstechindia.com',
+                          'pratik.purandare@scstechindia.com'],
+    'Warje-Karvenagar': ['warjekarvenagar@punecorporation.org','warjekarvenagar@punecorporation.org',
+                         'ganesh.khirid9@gmail.com', 'avinash.faltankar@scstechindia.com',
+                         'sanket.jadhav@scstechindia.com', 'avinash.gavhane@scstechindia.com'],
+    'Yerawada - Kalas - Dhanori': ['yerwada@punecorporation.org', 'mayurmandhare89@Gmail.com',
+                                   'swapnilkutal96@gmail.com', 'pavankumar.patil@scstechindia.com',
+                                   'sachin.gaikwad@scstechindia.com', 'lakhan.tekale@scstechindia.com']
+}
+
+
+added Pune TL Team in all the 15 wards:
+vikram.dhole@scstechindia.com
+hariprasad.dandime@scstechindia.com
+ajay.kedar@scstechindia.com
+yogesh.pawar@scstechindia.com
